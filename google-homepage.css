@@ -1,0 +1,22 @@
+.search {
+    width: 450px;
+    height: 30px;
+    border-radius: 25px;    
+}
+
+.search:hover {
+    box-shadow: 2px 2px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons input:hover {
+    border: 1px solid grey;
+}
+
+#main {
+    width: 50%;
+    margin: auto auto;
+}
